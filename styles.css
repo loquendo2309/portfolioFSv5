@@ -314,7 +314,7 @@ header .job-title {
 
 body.dark-mode .info-alert {
     background-color: #1e3a5f;
-    color: #90cdf4;
+    color: #ffffff;
     border-color: #2b6cb0;
 }
 
@@ -328,6 +328,7 @@ body.dark-mode .info-alert {
 .hidden {
     display: none !important;
 }
+
 
 /* ==========================================================================
    7. ACCESIBILIDAD Y REDUCCION DE MOVIMIENTO
